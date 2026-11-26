@@ -53,7 +53,8 @@ Spider-Man-Game/
 ├── images/
 │   └── ... game images and sprites
 ├── index.html
-└── spiderman-game.js
+├── spiderman-game.js
+├── README.md
 ```
 
 ### 3. Run the game
