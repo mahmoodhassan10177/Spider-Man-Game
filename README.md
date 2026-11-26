@@ -79,10 +79,6 @@ No JavaScript framework or package installation is required.
 - The source code identifies the original author in the HTML metadata as **Chandula Janith (RedEdge967)**. Retain appropriate attribution if you redistribute or modify the project.
 - Check the usage rights of included images, fonts, and audio before publishing or redistributing the project.
 
-## Credits
-
-Original project author listed in the source HTML: **Chandula Janith (RedEdge967)**.
-
 ---
 
 Made with HTML, CSS, and JavaScript.
